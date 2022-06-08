@@ -1,5 +1,5 @@
 
-# Shit Real Time Operating System (SRTOS)
+# Serial Real Time Operating System (SRTOS)
 
 ## Concept
 
